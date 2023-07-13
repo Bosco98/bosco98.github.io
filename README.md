@@ -1,3 +1,3 @@
-###My blog 
+### My blog 
 
-forked from bubblegum example in astro 
+forked from bubblegum in astro 
