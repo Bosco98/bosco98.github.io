@@ -1,6 +1,6 @@
 ---
 external: false
-draft: true
+draft: false
 title: "How to start learning selenium in 2023"
 description: "Selenium is a popular open-source tool for web automation testing. "
 date: 2022-11-01
