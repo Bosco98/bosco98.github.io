@@ -3,9 +3,8 @@ external: false
 draft: false
 title: "How to start learning selenium in 2023"
 description: "Selenium is a popular open-source tool for web automation testing. "
-date: 2022-11-01
+date: 2023-07-21
 ---
-# How to start learning selenium in 2023
 
 Selenium is a popular open-source tool for web automation testing. It allows you to write test scripts in various programming languages and run them on different browsers and platforms. Selenium has several components, such as Selenium IDE, Selenium WebDriver, and Selenium Grid. In this guide, we will cover the basics of selenium and how to get started with it in 2023.
 
