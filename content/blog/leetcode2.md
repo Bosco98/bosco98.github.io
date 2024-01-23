@@ -3,10 +3,10 @@ external: false
 draft: false
 title: "Solving the Reverse Words in a String in Java (Leet code problem solving Part 2 )"
 description: "Leet code problem solving series"
-date: 2023-01-03
+date: 2024-01-03
 ---
 
-In this series I'll be solving Leetcode problems one by one. 
+In this series I'll be solving Leetcode problems for SDETs one by one. 
 ## Problem
 [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
 	

@@ -3,10 +3,10 @@ external: false
 draft: false
 title: "Find the Unique Number of Occurrences (Leet code problem solving Part 1 )"
 description: "Leet code problem solving series part II"
-date: 2023-01-03
+date: 2024-01-03
 ---
 
-In this series I'll be solving Leetcode problems one by one. 
+In this series I'll be solving Leetcode problems for SDETs one by one. 
 
 ## Problem
 [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
