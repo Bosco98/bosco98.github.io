@@ -5,7 +5,10 @@ title: "Becoming a Good Parent to Everyone Around You"
 description: "Confused using select in selenium"
 date: 2025-05-14
 ---
-# Becoming a Good Parent to Everyone Around You
+
+> *Maybe maturity is not about becoming tougher — maybe it is about becoming gentler, steadier, and safer for the people around us.*
+
+---
 
 There’s a thought I keep returning to as I grow older:
 
@@ -21,25 +24,38 @@ At some point, you stop viewing adulthood as a stage where everyone has everythi
 
 And once you see that, your approach to people changes.
 
-You become softer.
+## What Changes When You Start Seeing People This Way
 
-More patient.
+* You become softer.
+* More patient.
+* Less reactive.
+* Less obsessed with winning every argument or proving every point.
+* More focused on preserving peace than protecting ego.
+* More aware that everyone is carrying invisible battles.
 
-Less reactive.
-
-Less obsessed with winning every argument or proving every point.
+You begin seeing love less as intensity and more as consistency.
 
 You begin understanding that love is often made up of very small things: subtle adjustments, quiet sacrifices, listening carefully, giving people room to breathe, and staying emotionally present even when it’s inconvenient.
 
-A good parent does not suffocate.
-They do not dominate.
-They do not constantly demand repayment for their care.
+## What a Good Parent Really Does
 
-They create safety.
+A good parent:
 
-They allow someone to grow without fear of rejection.
+* Does not suffocate.
+* Does not dominate.
+* Does not constantly demand repayment for their care.
+* Creates emotional safety.
+* Allows people to grow without fear of rejection.
+* Supports without controlling.
+* Guides without humiliating.
+
+That, to me, is what mature love looks like.
 
 I think that is what mature love looks like too.
+
+---
+
+## The Quiet Strength of a Good Man
 
 A lot of people misunderstand responsibility, especially as men. They associate it with authority, control, or being emotionally hardened. But I think real masculine strength is much quieter than that.
 
@@ -54,6 +70,8 @@ To protect the dignity of the people around you.
 To choose patience over ego.
 
 To make people feel safe enough to be imperfect.
+
+## Why This Matters More With Age
 
 As life moves forward, this mindset becomes even more important. Because eventually, almost everyone around you will have moments where they need gentleness more than judgment.
 
@@ -75,12 +93,29 @@ Not fixing every problem for them.
 
 But standing beside them with enough patience, understanding, and steadiness that they can face life without feeling alone.
 
-I think the world would become much kinder if more people stopped asking,
-“Who will take care of me?”
-and started asking,
-“How can I become someone others feel safe around?”
+---
+
+## A Better Question to Ask Yourself
+
+I think the world would become much kinder if more people stopped asking:
+
+> “Who will take care of me?”
+
+and started asking:
+
+> “How can I become someone others feel safe around?”
 
 Because in the end, everyone is carrying something invisible.
 
 And sometimes the greatest thing you can offer another human being is the emotional presence of a good parent:
-steady, forgiving, supportive, and quietly loving.
+
+> steady,
+> forgiving,
+> supportive,
+> and quietly loving.
+
+---
+
+*Maybe becoming a good human being is not about being admired by everyone.*
+
+*Maybe it is simply about becoming a place where the people you love can rest.*
